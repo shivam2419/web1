@@ -1,0 +1,381 @@
+
+.fimage{
+    background-image: url('zgym2.png');
+    background-size: cover;
+    
+}
+.header{
+    padding: 10px;
+}
+.header>ul>li{
+    display: inline;
+    float: right;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.header>ul>li>a{
+    text-decoration: none;
+    color:azure;
+    padding: 10px;
+    border-radius: 30px;
+}
+.header>ul>li>a:hover{
+    color: black;
+    background-color: white;
+    
+}
+#m_butt{
+    margin-left: 380px;
+    margin-right: 70px;
+    background-color: blue;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+#m_butt:hover{
+    background-color: green;
+    font-size: 22px;
+    margin-left: 440px;
+    transition: 1s linear ease-in-out;
+}
+#first{
+    
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight:bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#second{
+    color: green;
+    font-size: 35px;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head_mid{
+    text-align: center;
+}
+.head_mid>h1{
+    font-size: 25px;
+    margin-top: 160px;
+}
+.heading{
+    font-size: 50px;
+    font-family: arial;
+    font-weight: bold;
+    display: inline;
+    color: green;
+}
+.own{
+    color: black;
+    font-size: 55px;
+    font-family: arial;
+    margin-left: 10px;
+    font-weight: bolder;
+}
+.head_mid>h5{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+
+}
+.head_mid>h4{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 0px;
+    
+    
+
+}
+.head_mid>h4>a{
+    color: black;
+ 
+}
+.join{
+    background-color: green;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 120px;
+}
+.join>a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.join2>a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.join2{
+    background-color: black;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 80px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+
+
+.middle>img{
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 100px;
+    border-radius: 20px;
+        
+}
+.content{
+    float: left;
+    margin-top: 20px;
+    margin-left: 200px;
+    max-width: 400px;
+}
+.content>h3{
+    font-size: 40px;
+}
+.content>h6{
+    font-size: 20px;
+    font-family: 'Lucida Sans';
+}
+.content2{
+    text-align: center;  
+    margin-left: 45%; 
+}
+.smiddle>h3{
+    
+    margin-bottom: 5px;
+}
+.content2{
+    max-width: 300px;
+}
+.content2>h3{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.smiddle>ul>li{
+    background-color:rgb(255, 255, 255);
+    border: 2px whitesmoke solid;
+    margin-top: 70px;
+    display: inline;
+    float: left;
+    max-width: 200px;
+    margin-left: 110px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 120px;
+}
+.smiddle>ul>li>img{
+    height: 100px;
+    border-radius: 10px;
+}
+.smiddle>ul>li>h6{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.smiddle>ul>li>p{
+    font-size: 16px;
+}
+.smiddle{
+    background-color: whitesmoke;
+    height: 600px;
+    border: 2px whitesmoke solid;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+
+
+
+
+.mmiddle1{
+    margin-top: 100px;
+    background-color: rgb(5, 5, 74);
+    color: white;
+    text-align: center;
+  
+    padding: 20px;
+}
+.comp>h4{
+    font-size: 30px;
+    font-weight: bold;
+}
+.comp>p{
+    font-size: 20px;
+}
+.comp>h3{
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    color: black;
+    
+}
+.comp>h3:hover{
+    background-color: black;
+    color: white;
+}
+
+.middle_footer{
+    padding: 10px;
+    margin-left: 60px;
+    
+}
+.col1{
+    float: right;
+    text-align: center;
+    width: 200px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    background-color: rgb(238, 235, 235);
+    padding:5px;
+    border-radius: 20px;
+    color: black;
+}
+.col1>img{
+    height: 50px;
+    width: 50px;
+
+}
+.col2{
+    width: 200px;
+    text-align: center;
+    margin-bottom: 100px;
+    background-color: rgb(238, 235, 235);
+    padding:5px;
+    border-radius: 20px;
+    color: black;
+}
+.col2>img{
+    height: 50px;
+    width: 50px;   
+}
+
+.col3{
+    float: right;
+    text-align: center;
+    width: 200px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    background-color: rgb(238, 235, 235);
+    padding:5px;
+    border-radius: 20px;
+    color: black;
+}
+.col3{
+    float: right;
+}
+.col3>img{
+    height: 50px;
+    width: 50px;
+}
+.col4{
+    text-align: center;
+    width: 200px;
+    background-color: rgb(238, 235, 235);
+    padding:5px;
+    border-radius: 20px;
+    color: black;
+}
+.col4>img{
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+
+.intro{
+    display: inline;
+    float: left;
+    width: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 2px azure solid;
+    padding: 10px;
+    background-color: azure;
+    border-radius: 50px;
+    text-align: center;
+}
+.intro>img{
+    height: 100px;
+    
+    border-radius: 100px;
+}
+.contact{
+    display: inline;
+    float: left;
+    margin-left: 100px;
+    max-width: 300px;
+    border: 2px azure solid;
+    padding: 10px;
+    background-color: azure;
+    border-radius: 50px;
+    text-align: center;
+    height: 200px;
+}
+.contact>h4{
+    font-size: 20px ;
+    font-weight: bold;
+}
+
+.follow{
+    border: 2px azure solid;
+    padding: 10px;
+    background-color: azure;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 1150px;
+    margin-right: 50px;
+    height: 200px;
+    padding: 10px;
+    padding-top: 30px;
+    font-size: 20px ;
+    font-weight: bold;
+}
+.follow>p{
+   display: inline;
+}
+
+
+
+.fa-instagram {  
+    background: #125688;  
+    color: white;  
+}  
+.fa-facebook {  
+background: #3B5998;  
+color: white;  
+}  
+.fa-twitter {  
+background: #55ACEE;  
+color: white;  
+}  
+
+
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+   text-align: center;
+   padding: 1px;
+}

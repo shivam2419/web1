@@ -1,0 +1,169 @@
+.fimage{
+    background-image: url('zgym2.png');
+    background-size: cover;
+    
+}
+.header{
+    padding: 10px;
+}
+.header>ul>li{
+    display: inline;
+    float: right;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.header>ul>li>a{
+    text-decoration: none;
+    color:azure;
+    padding: 10px;
+    border-radius: 30px;
+}
+.header>ul>li>a:hover{
+    color: black;
+    background-color: white;
+    
+}
+#m_butt{
+    margin-left: 380px;
+    margin-right: 70px;
+    background-color: blue;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+#m_butt:hover{
+    background-color: green;
+    font-size: 22px;
+    margin-left: 440px;
+    transition: 1s linear ease-in-out;
+}
+#first{
+    
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight:bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#second{
+    color: green;
+    font-size: 35px;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head_mid{
+    text-align: center;
+}
+.head_mid>h1{
+    font-size: 25px;
+    margin-top: 160px;
+}
+.heading{
+    font-size: 50px;
+    font-family: arial;
+    font-weight: bold;
+    display: inline;
+    color: green;
+}
+.own{
+    color: black;
+    font-size: 55px;
+    font-family: arial;
+    margin-left: 10px;
+    font-weight: bolder;
+}
+.head_mid>h5{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+
+}
+.head_mid>h4{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 0px;
+    
+    
+
+}
+.head_mid>h4>a{
+    color: black;
+ 
+}
+.join{
+    background-color: green;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 120px;
+}
+.join>a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.join2>a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.join2{
+    background-color: black;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 80px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+.form{
+    border: 2px solid black;
+    width: 300px;
+    margin-left: 40%;
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 20px;
+    opacity: 80%;
+}
+#mbutt{
+    background-color: green;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 3px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+#uname,#upass{
+    font-size: 20px;
+    background-color: azure;
+    padding: 3px;
+    border-radius: 10px;
+}
+.help>a{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 20px;
+}
+
+
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+   text-align: center;
+   padding: 1px;
+}
